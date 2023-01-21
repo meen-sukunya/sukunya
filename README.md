@@ -19,7 +19,7 @@
   
 ### :books: **My projects**
 
-* Click here to see all of my projects.
+* Click [here](https://github.com/meen-sukunya/portfolio) to see all of my projects.
 
 ### :mailbox: **Contact**
 
