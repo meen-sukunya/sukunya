@@ -3,7 +3,7 @@
 
 * My name is **Sukunya Sertprasit**, you can call me **Meen**. 
 * I am passionate about Data Analytics and how to improve performance.
-* Now seeking a job as a Data Analyst
+* Now, I'm looking for a job as a Data Analyst.
 
 ### :chart_with_upwards_trend: **Skills**
 
